@@ -1,5 +1,5 @@
 # econometry-project
 
-Acest proiect analizează impactul investițiilor străine directe (ISD), al importurilor și al numărului de emigranți asupra PIB-ului României în perioada 2003–2022. Studiul utilizează modele de regresie simplă, regresie multiplă și variabile dummy, însoțite de analize descriptive, corelații între variabile și teste statistice (Fischer, T, Jarque-Berra, White).
+This project analyzes the impact of foreign direct investment (FDI), imports, and emigration on Romania's GDP from 2003 to 2022. It uses simple and multiple regression models along with dummy variables, descriptive analyses, variable correlations, and statistical tests (Fisher, T, Jarque-Berra, White).
 
-Proiectul oferă atât o perspectivă teoretică și empirică asupra relației dintre factorii economici și PIB, cât și prognoze privind evoluțiile viitoare, contribuind la înțelegerea impactului globalizării și al mobilității internaționale asupra economiei românești.
+The study provides both theoretical and empirical insights into the relationship between economic factors and GDP, offering forecasts of future trends and enhancing understanding of globalization and international mobility effects on the Romanian economy.
